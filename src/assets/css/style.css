@@ -1,0 +1,83 @@
+.btn {
+	background: white;
+	border-radius: 5px;
+}
+
+.logo {
+	height: 60px;
+}
+
+.sendButton {
+	height: 40px;
+	width: 200px;
+	border-radius: 5px;
+}
+
+.input-icons i {
+	position: absolute;
+}
+
+.input-icons {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.icon {
+	padding: 10px;
+	min-width: 40px;
+	margin-left: 250px !important;
+	margin-top: 5px;
+	color: rgb(19 95 162);
+}
+
+.input-field {
+	width: 25%;
+	padding: 10px;
+	text-align: center;
+	border: solid 1px !important;
+	border-radius: 5px;
+}
+
+.from {
+	height: 480px;
+	border-width: thick;
+	border-radius: 5px;
+	border: solid 2px !important;
+	border-color: rgb(19 95 162);
+}
+
+.input-text {
+	padding: 5px;
+	text-align: center;
+	border: solid 1px !important;
+	border-radius: 5px;
+}
+
+.profile {
+	height: 60px;
+	width: 60px;
+}
+
+.background {
+	background-color: #093665;
+}
+.bold {
+	font-weight: bold;
+}
+
+.textInput {
+	padding: 5px;
+	text-align: center;
+	border: solid 1px !important;
+	border-radius: 5px;
+	width: 130px;
+}
+
+.referralText {
+	width: 340px;
+	height: 150px;
+}
+
+.fSize {
+	font-size: 23x;
+}
