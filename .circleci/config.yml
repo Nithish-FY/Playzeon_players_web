@@ -1,5 +1,5 @@
 orbs:
-  react: 'Playzeon players web'
+  react: 'Playzeon_players_web'
 version: 2.1
 workflows:
   push:
